@@ -28,9 +28,6 @@ Utilizes Chroma to store and retrieve embeddings, enabling efficient and fast se
 
 Provides an interface for users to ask questions and receive responses based on the stored embeddings, enhancing the retrieval of relevant information from large text datasets.
 
-### LangWatch Integration
-LangWatch dashboard for monitoring and observability.
-
 ## Pre-Conditions
 
 1. **Ensure that Ollama is installed on your laptop.**

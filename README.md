@@ -71,6 +71,11 @@ To ensure accuracy and reliability, ContentMachine AI uses advanced prompting te
 - **Chain-of-Thought Reasoning**: The assistant uses logical reasoning steps to ensure it generates correct and meaningful insights.
 - **Data Verification**: If the query requires a factual answer, the assistant verifies claims against the stored context before responding.
 
+
+
+## LangWatch Integration
+LangWatch dashboard for monitoring and observability.
+
 ## Deployment
 
 ### Live on Hugging Face
