@@ -1,5 +1,7 @@
 # ContentMachine AI
 
+[Uploading Screencast from 2024-09-17 15-24-55.webm…]()
+[Uploading Screencast from 2024-09-17 15-29-34.webm…]()
 
 Content Machine AI is an intelligent content generation and social media analytics system built with **Retrieval-Augmented Generation (RAG)**. It transforms social media profile analytics from CSV files into valuable insights, enabling users to automate content creation and understand engagement trends with precision.
 
